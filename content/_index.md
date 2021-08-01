@@ -1,7 +1,7 @@
 ---
-title: "\"À Vie\" Learner"
+title: "Lifelong Learner"
 subtitle: "A Blog About Learning"
-description: "Live as if you were to die tomorrow. Learn as if you were to live forever."
+description: "\"Live as if you were to die tomorrow. Learn as if you were to live forever.\""
 date: 2019-02-18T12:27:33-06:00
 images:
   - img/unicorn-megaphone.png
