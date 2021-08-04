@@ -1,10 +1,13 @@
 header:
-  - name: About
-    title: About This Blog
-    url: /about/
   - name: Blog
     title: Blog
     url: /blog/
+  - name: Code
+    title: Code
+    url: "https://code.thelifelonglearner.blog"
+  - name: About
+    title: About This Blog
+    url: /about/
 
 footer:
   - name: Newsletter
