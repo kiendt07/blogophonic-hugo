@@ -39,31 +39,28 @@ Although I did feel ***light*** and ***springy*** during the whole experimen
 
 ![](/img/img_1506_original.jpg)
 
-
 The problem with plant-based diet is that:
 
 * **I was spending too much time** on prepping and eating the food
 * **Hunger kicks in quite often,** in which I always turns jumpy and day-dreamy.
 * **It’s just so damn hard giving up meat** almost entirely. This is the main reason why I gave up on plant-based diet.
 
-> ### **`Yet I’m still on the quest of finding the best diet for life.`**
+> #### **`Yet I’m still on the quest of finding the best diet for life.`**
 
 ## Why Fasting?
 
 Before jumping into the experiment, I want to lay down some goals first, in order to see if fasting has what it takes or not.
 
 * **I want to lose fat.** I have to admit I do want to look like Ryan Gosling in The Notebook. I need the quickest way to have those six-pack. This means I have to *burn more fat and also increase my muscle mass.* 10% body fat is my dream goal.
-* **I also want to have a simple, sustainable dietary plan**. I don’t have 2 hours a day to cook. I don’t want to count the calories intake or google up the ingredients every time I prep a meal. My dream diet must be a quick and healthy way that also easy to incorporate to my everyday life.
+* **I also want to have a simple, sustainable dietary plan.** I don’t have 2 hours a day to cook. I don’t want to count the calories intake or google up the ingredients every time I prep a meal. My dream diet must be a quick and healthy way that also easy to incorporate to my everyday life.
 
 Plant-based has failed me, what about fasting? After a week more of researching, it looks really promising to me.
 
-* **Fat Loss?** Checked. According to this and this, fasting is an effective and science-backed method to lose fat in a short period of time.
-* **Easy to Follow?** Checked. Fasting is so simple that it can be explained in just two sentences: Eat nothing. Drink water, tea or coffee.
-* **It Works With Any Diet.** Bonus point! This is probably the best feature about fasting.
+* **Fat Loss? Checked.** According to this and this, fasting is an effective and science-backed method to lose fat in a short period of time.
+* **Easy to Follow? Checked.** Fasting is so simple that it can be explained in just two sentences: Eat nothing. Drink water, tea or coffee.
+* **It Works With Any Diet. Bonus point!** This is probably the best feature about fasting.
 
-![Excerpts from The Complete Guide to Fasting by Dr. Jason Fung.](/img/1_4hoa-cgdlgjxm7vk-spgca.png "Excerpts from The Complete Guide to Fasting by Dr. Jason Fung.")
-
-> ### `It’s not about which foods to eat, it’s about when you should eat them.`
+> #### `It’s not about which foods to eat, it’s about when you should eat them.`
 
 Okay, now I was finally convinced. Let’s go for it!
 
@@ -71,7 +68,7 @@ Okay, now I was finally convinced. Let’s go for it!
 
 I decided to go with ***16-hour intermittent fasting***, since it’s highly recommended for newbie and fairly simple to incorporate into everyday life.
 
-> **`The daily sixteen-hour fast`**
+> #### **`The daily sixteen-hour fast`**
 
 You could go with *12-hours*, *20-hours*, *36-hours*, the *5:2 diet*, *Alternate-Day*, or even *Extended Fasting* (> 4-days), .etc, your choice. But still I highly recommend you to try out the sixteen-hours first.
 
@@ -83,7 +80,7 @@ The guidelines for Sixteen-hours Intermittent Fasting are:
 * **Food allowed?** For lunch/dinner, in terms of macro nutritions: lots of fat, medium of protein and ***no carb***. It’s recommended that I need to eat natural, unprocessed foods. Only in the snack meal I then eat a bit of *slow carbohydrate* to charge up the body.
 * **Workouts regularly**. Even though muscle loss is not a direct outcome of fasting (according to this and this), you will lose fat faster when you have more muscle. Working out regularly is recommended but not a must, so if you hate working out I guess it will be just fine (but I really doubt it).
 
-![](https://cdn-images-1.medium.com/max/400/1*HrRy5fFe54zle4BcBuXYqg.jpeg)
+![Lots of fat. Medium of protein. No carb!](https://cdn-images-1.medium.com/max/400/1*HrRy5fFe54zle4BcBuXYqg.jpeg "Lots of fat. Medium of protein. No carb!")
 
 ## Some Boring Metrics to Observe
 
@@ -96,8 +93,6 @@ Lastly, below are some quantitive and qualitative metrics I would observe during
 That’s it. I have an execution plan with metrics and goals to observe. 4 weeks to try this experiment out. Let’s go baby!
 
 ## Four Weeks Later: The Result![](https://miro.medium.com/max/2000/1*RPkuYExIvlzS5ak3UmQ_fw.jpeg)
-
-
 
 ### Body Weight
 
