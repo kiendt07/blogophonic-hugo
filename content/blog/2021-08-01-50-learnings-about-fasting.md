@@ -12,7 +12,7 @@ excerpt: Do you know what Jack Dorsey and Miranda Kerr have in common? They both
   so confusing. Here are 50 learnings about fasting.
 author: Kien Do
 images:
-  - /img/logo.png
+  - /img/screenshot.png
 ---
 This is just a placeholder for now. Will write down my learnings here soon.
 
