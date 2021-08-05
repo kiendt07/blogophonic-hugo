@@ -4,6 +4,8 @@ excerpt: "Two months ago I was scrolling through Youtube’s junk and suddenly
   stumbled upon this video. The title is very intriguing: “Longevity & Why I now
   eat One Meal a Day”."
 author: Kien Do
+images:
+  - /img/0_vx6qf19xkrb92ilz.jpeg
 ---
 Two months ago I was scrolling through Youtube’s junk and suddenly stumbled upon this video. The title is very intriguing: “[Longevity & Why I now eat One Meal a Day](https://www.youtube.com/watch?v=PKfR6bAXr-c)”.
 
