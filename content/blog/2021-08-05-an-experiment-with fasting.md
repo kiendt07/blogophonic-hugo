@@ -92,9 +92,9 @@ Lastly, below are some quantitive and qualitative metrics I would observe during
 
 That’s it. I have an execution plan with metrics and goals to observe. 4 weeks to try this experiment out. Let’s go baby!
 
-## Four Weeks Later: The Result![](https://miro.medium.com/max/2000/1*RPkuYExIvlzS5ak3UmQ_fw.jpeg)
+## Four Weeks Later: The Result
 
-### Body Weight
+## Body Weight
 
 * **3kg weight loss**, from \~65kg to \~62kg. I do look skinnier but not significantly.
 * **3% fat loss.** This is significant for me. I don’t want to show the before-after pics here, but believe me it looks really significant.
