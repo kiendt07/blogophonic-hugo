@@ -11,6 +11,8 @@ tags:
   - book
   - coderpush
 date: 2021-08-21T18:45:13.968Z
+images:
+  - https://tva1.sinaimg.cn/large/008i3skNgy1gtp00740vpj608g04mdfq02.jpg
 ---
 **I have to admit something.**
 
@@ -52,7 +54,7 @@ I’m Harley, cofounder of CoderPush. I’m a first-time CEO (thank god for Long
 
 **[Getting Naked](https://www.amazon.com/Getting-Naked-Business-Shedding-Sabotage/dp/0787976393)**: *a business fable about shedding the three fears that sabotage client loyalty.* This was gifted to me by our first client last year and it’s an inspiration to love what I do at CoderPush.
 
-![**[Getting Naked](https://www.amazon.com/Getting-Naked-Business-Shedding-Sabotage/dp/0787976393)**: *a business fable about shedding the three fears that sabotage client loyalty.*](https://tva1.sinaimg.cn/large/008i3skNgy1gtozuv7yj1j60990dwjr802.jpg "**[Getting Naked](https://www.amazon.com/Getting-Naked-Business-Shedding-Sabotage/dp/0787976393)**: *a business fable about shedding the three fears that sabotage client loyalty.*")
+![a business fable about shedding the three fears that sabotage client loyalty](https://tva1.sinaimg.cn/large/008i3skNgy1gtozuv7yj1j60990dwjr802.jpg)
 
 **[The Five Dysfunctions of a Team](https://www.amazon.com/Five-Dysfunctions-Team-Leadership-Fable/dp/0787960756)** by the same author as the above, Patrick Lencioni. This pyramid provides a great framework to build a company, culture, and guide ourselves. It’s amazingly simple to remember, hard to master, but this framework points to what’s lacking!
 
@@ -74,7 +76,7 @@ TBD. Please send me your answer Nghia!
 
 This is my favorite of Edward Snowden’s quote: “Arguing that you don’t care about privacy because you have nothing to hide is no different than saying you don’t care about free speech because you have nothing to say”.
 
-![Permanent Record](https://tva1.sinaimg.cn/large/008i3skNgy1gtozxk7kibj60u019l10102.jpg "Permanent Record")
+![Permanent Record](https://tva1.sinaimg.cn/large/008i3skNgy1gtozxk7kibj60u019l10102.jpg)
 
 **[Billion Dollar Loser](https://www.amazon.com/Billion-Dollar-Loser-Spectacular-Neumann/dp/0316461369).** This is a fun read about how WeWork, one of the most well-funded startups, **failed because of the leadership (or lack thereof) of its leader.** I like this book because **it’s fun** and also there are not many books written about **entrepreneurship failures**. It’s a good cautionary tale on extreme growth.
 
@@ -98,7 +100,7 @@ The first chapter is the best, explaining **how come the definition of developi
 
 Such a fascinating book. Lots of stories can hit you in your soft spot as well since the author is an **ex-doctor trying to help people around the world during the wars**. I reallyyyyy recommend this book!!!
 
-![Factfulness: Ten Reasons We're Wrong About the World](https://tva1.sinaimg.cn/large/008i3skNgy1gtozyh3pxhj60u01admzd02.jpg "Factfulness: Ten Reasons We're Wrong About the World")
+![Factfulness: Ten Reasons We're Wrong About the World](https://tva1.sinaimg.cn/large/008i3skNgy1gtozyh3pxhj60u01admzd02.jpg)
 
 [**Range: Why Generalists Triumph in a Specialized World**.](https://www.amazon.com/Range-Generalists-Triumph-Specialized-World/dp/0735214484) I found this one when scrolling through Bill Gates’s book recommendation list, talking about being a **generalist** versus a **specialist** in the modern world.
 
