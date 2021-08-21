@@ -26,7 +26,7 @@ In that 30 minutes, he recommended me bunch of great books about politics and go
 
 After the call, we were just really happy about those new books to check out later.
 
-![It's so hard to find a good book](https://tva1.sinaimg.cn/large/008i3skNgy1gtp00740vpj608g04mdfq02.jpg "It's so hard to find a good book")
+![It's so hard to find a good book](https://tva1.sinaimg.cn/large/008i3skNgy1gtp089a0v7j60sg0sgdko02.jpg "It's so hard to find a good book")
 
 ## The Idea
 
