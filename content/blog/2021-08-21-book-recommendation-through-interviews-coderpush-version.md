@@ -50,11 +50,13 @@ I’m Harley, cofounder of CoderPush. I’m a first-time CEO (thank god for Long
 
 **[Getting Naked](https://www.amazon.com/Getting-Naked-Business-Shedding-Sabotage/dp/0787976393)**: *a business fable about shedding the three fears that sabotage client loyalty.* This was gifted to me by our first client last year and it’s an inspiration to love what I do at CoderPush.
 
-**[The Five Dysfunctions of a Team](https://www.amazon.com/Five-Dysfunctions-Team-Leadership-Fable/dp/0787960756)** by the same author as the above, Patrick Lencioni. This pyramid provides a great framework to build a company, culture and guide ourselves. It’s amazingly simple to remember, hard to master, but this framework points to what’s lacking!
+![**[Getting Naked](https://www.amazon.com/Getting-Naked-Business-Shedding-Sabotage/dp/0787976393)**: *a business fable about shedding the three fears that sabotage client loyalty.*](https://tva1.sinaimg.cn/large/008i3skNgy1gtozuv7yj1j60990dwjr802.jpg "**[Getting Naked](https://www.amazon.com/Getting-Naked-Business-Shedding-Sabotage/dp/0787976393)**: *a business fable about shedding the three fears that sabotage client loyalty.*")
+
+**[The Five Dysfunctions of a Team](https://www.amazon.com/Five-Dysfunctions-Team-Leadership-Fable/dp/0787960756)** by the same author as the above, Patrick Lencioni. This pyramid provides a great framework to build a company, culture, and guide ourselves. It’s amazingly simple to remember, hard to master, but this framework points to what’s lacking!
 
 We need to build **trust**. We need to embrace **conflicts** built on mutual trust. Unafraid of conflicts, we can now **commit** to the decisions we make. With commitment, we need to hold one another **accountable**. Without accountability, we don’t pay **attention to results.**
 
-**[The Phenix Project](https://www.amazon.com/Phoenix-Project-DevOps-Helping-Business/dp/0988262592).** The book (another fable!) is about a transformation in a company that struggles with inefficient processes and eventually launches a new innovative project. It ties together proven concepts that should be applied in a modern company in many fields: leadership, culture, security, software, and general IT operations. Funnily, the fictional people in this book refers to the Five disfunctions of a team book too and applied it.
+**[The Phenix Project](https://www.amazon.com/Phoenix-Project-DevOps-Helping-Business/dp/0988262592).** The book (another fable!) is about a transformation in a company that struggles with inefficient processes and eventually launches a new innovative project. It ties together proven concepts that should be applied in a modern company in many fields: leadership, culture, security, software, and general IT operations. Funnily, the fictional people in this book refers to the Five dysfunctions of a team book too and applied them.
 
 This book (and its sequels by the same authors) also influences me to hold a strong conviction in CI/CD and deploy many times a day instead of by sprint cycles.
 
@@ -68,15 +70,17 @@ TBD. Please send me your answer Nghia!
 
 **[Permanent Record](https://www.amazon.com/Permanent-Record-Edward-Snowden/dp/1250237238)**, a very serious book about privacy written by the famous whistleblower Edward Snowden who leaked highly classified information from the NSA. I love this book and absolutely love Edward Snowden’s selfless character.
 
-This is my favorite Edward Snowden’s quote: “Arguing that you don’t care about privacy because you have nothing to hide is no different than saying you don’t care about free speech because you have nothing to say”.
+This is my favorite of Edward Snowden’s quote: “Arguing that you don’t care about privacy because you have nothing to hide is no different than saying you don’t care about free speech because you have nothing to say”.
 
-**[Billion Dollar Loser](https://www.amazon.com/Billion-Dollar-Loser-Spectacular-Neumann/dp/0316461369).** This is a fun read about how WeWork, one of the most well funded startup, **failed because of the leadership (or lack thereof) of its leader.** I like this book because **it’s fun** and also there are not many books written about **entrepreneurship failures**. It’s a good cautionary tale on extreme growth.
+![Permanent Record](https://tva1.sinaimg.cn/large/008i3skNgy1gtozxk7kibj60u019l10102.jpg "Permanent Record")
 
-**[That Will Never Work](https://www.amazon.com/That-Will-Never-Work-Netflix/dp/0316530204),** one of the **best startup books** I’ve ever read. This book is actually better than the books about Amazon, Uber, Airbnb because it’s written by its founder. I’ve had many questions around how a startup is run and the journey and the pivot it will have to go through to survive and this book does a great job painting a picture in my head.
+**[Billion Dollar Loser](https://www.amazon.com/Billion-Dollar-Loser-Spectacular-Neumann/dp/0316461369).** This is a fun read about how WeWork, one of the most well-funded startups, **failed because of the leadership (or lack thereof) of its leader.** I like this book because **it’s fun** and also there are not many books written about **entrepreneurship failures**. It’s a good cautionary tale on extreme growth.
+
+**[That Will Never Work](https://www.amazon.com/That-Will-Never-Work-Netflix/dp/0316530204),** one of the **best startup books** I’ve ever read. This book is actually better than the books about Amazon, Uber, Airbnb because it’s written by its founder. I’ve had many questions about how a startup is run and the journey and the pivot it will have to go through to survive and this book does a great job painting a picture in my head.
 
 **The best quote in the book is: “Nobody knows anything”.** Netflix started off with a good idea but was eventually phased out due to how easy it is for big companies to copy and reproduce.
 
-**Through trial and error and a lot of luck,** they came up with the membership/subscription model which has been the norm for e-commerce company since then. This is not what the founder had envisioned his company to become but everything worked out at the end.
+**Through trial and error and a lot of luck,** they came up with the membership/subscription model which has been the norm for e-commerce companies since then. This is not what the founder had envisioned his company to become but everything worked out in the end.
 
 # **@kien**
 
@@ -92,9 +96,11 @@ The first chapter is the best, explaining **how come the definition of developi
 
 Such a fascinating book. Lots of stories can hit you in your soft spot as well since the author is an **ex-doctor trying to help people around the world during the wars**. I reallyyyyy recommend this book!!!
 
+![Factfulness: Ten Reasons We're Wrong About the World](https://tva1.sinaimg.cn/large/008i3skNgy1gtozyh3pxhj60u01admzd02.jpg "Factfulness: Ten Reasons We're Wrong About the World")
+
 [**Range: Why Generalists Triumph in a Specialized World**.](https://www.amazon.com/Range-Generalists-Triumph-Specialized-World/dp/0735214484) I found this one when scrolling through Bill Gates’s book recommendation list, talking about being a **generalist** versus a **specialist** in the modern world.
 
-The book has stories about **Roger Federer** (a generalist) playing various sports up until 16 years old before ended up with tennis and became the best player in the world; or a story about three young Hungarian girls (specialists) who have been raised since the age of 1 **to become the best chest players** in the world.
+The book has stories about **Roger Federer** (a generalist) playing various sports up until 16 years old before ended up with tennis and became the best player in the world; or a story about three young Hungarian girls (specialists) who have been raised since the age of 1 **to become the best chess players** in the world.
 
 It’s such a fun book to read, especially if you are curious about how to become the best in your professional life.
 
@@ -106,6 +112,6 @@ It’s such a fun book to read, especially if you are curious about how to becom
 
 #### **Some honorable mentions**
 
-***Radical Candor***, famous book about being a leader with honesty but also being direct and tough. ***The Complete Guide To Fasting***, a must read if you are serious about trying fasting to improve your health.\
+***Radical Candor***, a famous book about being a leader with honesty but also being direct and tough. ***The Complete Guide To Fasting***, a must-read if you are serious about trying fasting to improve your health.\
 \
-`📍 To share your recommendations, please go here `[`https://form.jotform.com/212320636001033`](https://form.jotform.com/212320636001033)``
+`📍 To share your recommendations, please go here`[`https://form.jotform.com/212320636001033`](https://form.jotform.com/212320636001033)``
