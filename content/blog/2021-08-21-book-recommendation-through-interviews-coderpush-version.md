@@ -1,5 +1,5 @@
 ---
-title: Book Recommendation Through Interviews | CoderPush Version
+title: "Book Recommendation #1"
 draft: false
 excerpt: It's so hard to find a good book to read these days. Book
   recommendations are too vague and irrelevant to me. Finding great people with
