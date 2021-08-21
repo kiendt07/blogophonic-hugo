@@ -5,13 +5,13 @@ excerpt: Without much curation and editing, here is a collection of my
   verbatim and linked to their original sources. A small minority are in my own
   words, which start with “KD”.
 author: Kien Do
+categories:
+  - Weekly Learnings
 tags:
   - weekly-learnings
   - weekly
   - learnings
   - learning
-categories:
-  - Weekly Learnings
 date: 2021-08-19T16:39:21.063Z
 images:
   - https://tva1.sinaimg.cn/large/008i3skNgy1gtou80e1pnj60hs0qo74q02.jpg
@@ -20,20 +20,20 @@ Without much curation and editing, here is a collection of my reading/finding/th
 
 The majority are copied verbatim and linked to their original sources. A small minority are in my own words, which start with “KD”.
 
-# News
+### News
 
 * **Uber is just a "shiny distraction" that stops cities** from prioritizing investment in road infrastructure and public transport [SHIFT](https://app.sparkmailapp.com/web-share/qcQ6nnp2SP6EwH-8ur5KxJlHoh92C5Oy2MHYhni6)
 * **Taliban** in an effort to present themselves as a good government [politico.eu](https://www.politico.eu/article/taliban-afghanistan-rebrand-social-media-twitter-international-recognition/?mc_cid=ef802dd2da&mc_eid=2cbbaeb3d6)
 * **Tesla Bot** [techcrunch.com](https://techcrunch.com/2021/08/19/musk-the-tesla-bot-is-coming/?utm_medium=TCnewsletter&tpcc=TCdailynewsletter)
 * **OnlyFans** says it's going to ban sexually explicit content [MIT Technology](https://app.sparkmailapp.com/web-share/BTGcXZlyEpsLrrKjUbUtwX4tJEvjM3bSDwWJK0Fw)
 
-# Findings
+#### Findings
 
 * **Connecting various services in a particular niche via API** is a popular idea [techcrunch](https://app.sparkmailapp.com/web-share/YWrSmxViyraM-x9KTtTnObYBWYZSZqZWyRf3crNy)
 * **API-delivered startups** are hot these days [techcrunch](https://app.sparkmailapp.com/web-share/YWrSmxViyraM-x9KTtTnObYBWYZSZqZWyRf3crNy)
 * **It took us about 2 years** until we could go live (Aplano, an employee scheduling tool) [failory.com](https://www.failory.com/interview/aplano)
 
-# Learnings
+#### Learnings
 
 * **The Intangible Skills You Can't Interview For** [staysaasy.com](https://staysaasy.com/leadership/2021/04/12/the-intangible-skills-you-cant-interview-for.html)
 * **To find startup ideas** [review.firstround.com](https://review.firstround.com/12-frameworks-for-finding-startup-ideas-advice-for-future-founders?utm_source=Firstround.com+Library&utm_campaign=c71c81af0f-waseem_daher&utm_medium=email&utm_term=0_d9bb43e05b-c71c81af0f-79586993#start-with-the-right-mindset)
@@ -59,19 +59,19 @@ The majority are copied verbatim and linked to their original sources. A small m
   * Trends > News Habits
   * People > Projects
 
-# Resources
+#### Resources
 
 * **Technical Writing Course** [developers.google.com](https://developers.google.com/tech-writing/overview)
 * **WeBuild Newsletter.** Để add blog của mình, các bạn tạo pull request ở đây nhé [webuild](https://github.com/webuild-community/federated-blog)
 
-# Good Reads
+#### Good Reads
 
 * **Best practices for writing code comments** [stackoverflow.blog](https://stackoverflow.blog/2021/07/05/best-practices-for-writing-code-comments/?utm_source=programmingdigest&utm_medium=email&utm_campaign=433)
 * **An epic treatise on scheduling, bug tracking, and triage** [apenwarr.ca](https://apenwarr.ca/log/20171213)
 * **Estimating like an Adult –** What to Steal from Agile [writemoretests.com](https://writemoretests.com/2012/02/estimating-like-an-adult-what-to-steal-from-agile.html)
 * **Books that explain (parts of) how the world really works** [apenwarr.ca](https://apenwarr.ca/log/20180724)
 
-# Books
+#### Books
 
 **[An Elegant Defense](https://www.amazon.com/Elegant-Defense-Extraordinary-Science-Immune-ebook/dp/B07C66KJC1).** Help me understand our **immune system** via stories and facts across the history of immunology.
 
