@@ -12,7 +12,7 @@ tags:
   - coderpush
 date: 2021-08-21T18:45:13.968Z
 images:
-  - https://tva1.sinaimg.cn/large/008i3skNgy1gtp00740vpj608g04mdfq02.jpg
+  - https://tva1.sinaimg.cn/large/008i3skNgy1gtp06kc5uaj61400u0juq02.jpg
 ---
 **I have to admit something.**
 
