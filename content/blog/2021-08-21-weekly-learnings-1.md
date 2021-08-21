@@ -5,7 +5,13 @@ excerpt: Without much curation and editing, here is a collection of my
   verbatim and linked to their original sources. A small minority are in my own
   words, which start with “KD”.
 author: Kien Do
-categories: [Weekly Learnings]
+tags:
+  - weekly-learnings
+  - weekly
+  - learnings
+  - learning
+categories:
+  - Weekly Learnings
 date: 2021-08-19T16:39:21.063Z
 images:
   - https://tva1.sinaimg.cn/large/008i3skNgy1gtou80e1pnj60hs0qo74q02.jpg
