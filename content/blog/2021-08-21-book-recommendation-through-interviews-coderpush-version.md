@@ -24,6 +24,8 @@ In that 30 minutes, he recommended me bunch of great books about politics and go
 
 After the call, we were just really happy about those new books to check out later.
 
+![It's so hard to find a good book](https://tva1.sinaimg.cn/large/008i3skNgy1gtp00740vpj608g04mdfq02.jpg "It's so hard to find a good book")
+
 ## The Idea
 
 After that call, I thought it could be a good idea to turn that into something to share with others. Here is what I did:
