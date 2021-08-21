@@ -46,11 +46,11 @@ Okay, thanks for reading this far. Please find below the recommendations of Harl
 
 ## **@harley**
 
-### ***Who are you and what do you do?***
+#### ***Who are you and what do you do?***
 
 I’m Harley, cofounder of CoderPush. I’m a first-time CEO (thank god for Long) who aims to share a modern and international work experience with engineers to grow and wow clients all over the world!
 
-### ***Three books you love recently and why?***
+#### ***Three books you love recently and why?***
 
 **[Getting Naked](https://www.amazon.com/Getting-Naked-Business-Shedding-Sabotage/dp/0787976393)**: *a business fable about shedding the three fears that sabotage client loyalty.* This was gifted to me by our first client last year and it’s an inspiration to love what I do at CoderPush.
 
@@ -64,11 +64,11 @@ This book (and its sequels by the same authors) also influences me to hold a str
 
 # **@nghia**
 
-### ***Who are you and what do you do?***
+#### ***Who are you and what do you do?***
 
 TBD. Please send me your answer Nghia!
 
-### ***Three books you love recently and why?***
+#### ***Three books you love recently and why?***
 
 **[Permanent Record](https://www.amazon.com/Permanent-Record-Edward-Snowden/dp/1250237238)**, a very serious book about privacy written by the famous whistleblower Edward Snowden who leaked highly classified information from the NSA. I love this book and absolutely love Edward Snowden’s selfless character.
 
