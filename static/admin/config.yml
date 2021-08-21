@@ -15,6 +15,8 @@ collections:
       - { label: 'Title', name: 'title', widget: 'string' }
       - { label: 'Draft', name: 'draft', widget: 'boolean', default: true }
       - { label: 'Excerpt', name: 'excerpt', widget: 'string', required: false }
+      - { label: "Tags", name: "tags", widget: "list" }
+      - { label: "Categories", name: "categories", widget: "list" }
       - { label: 'Publish Date', name: 'date', widget: 'datetime' }
       - { label: 'Thumbnail', name: 'images', widget: 'list', field: { label: Image, name: image, widget: image }, required: false }
       - { label: 'Body', name: 'body', widget: 'markdown' }
