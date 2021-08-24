@@ -28,11 +28,11 @@ For more detailed review, check out my Book Haul series.
 
 ## How the world really works
 
-* **[Factfulness](https://www.amazon.com/Factfulness-Reasons-World-Things-Better/dp/1250107814)** Ten Reasons We're Wrong About the World. One of the most educative books I've read.
-* **[Range](https://www.amazon.com/Range-Generalists-Triumph-Specialized-World/dp/0735214484)** Why Generalists Triumph in a Specialized World. Generalist vs Specialist. A different view.
-* **[How to Avoid Climate Disaster](https://www.amazon.com/How-Avoid-Climate-Disaster-Breakthroughs/dp/059321577X)** by Bill Gates. Really practical. And it's written by Bill Gates.
-* **[Modern Romance](https://www.amazon.com/Modern-Romance-Aziz-Ansari/dp/0143109251)** by Aziz Ansari and Eric Klinenberg. Online Dating. Fun and insightful, written by a comedian.
-* **[The Tipping Point](https://www.amazon.com/Tipping-Point-Little-Things-Difference/dp/0316346624).** Books from Malcolm Gladwell are generally great.
+* *[Factfulness: Ten Reasons We're Wrong About the World.](https://www.amazon.com/Factfulness-Reasons-World-Things-Better/dp/1250107814)* One of the most educative books I've read.
+* *[Range: Why Generalists Triumph in a Specialized World](https://www.amazon.com/Range-Generalists-Triumph-Specialized-World/dp/0735214484).* Generalist vs Specialist.
+* *[How to Avoid Climate Disaster](https://www.amazon.com/How-Avoid-Climate-Disaster-Breakthroughs/dp/059321577X)* by Bill Gates. Really practical. And it's written by Bill Gates.
+* *[Modern Romance](https://www.amazon.com/Modern-Romance-Aziz-Ansari/dp/0143109251)* by Aziz Ansari and Eric Klinenberg. Online Dating. Fun and insightful, written by a comedian.
+* *[The Tipping Point: How Little Things Can Make a Big Difference**.**](https://www.amazon.com/Tipping-Point-Little-Things-Difference/dp/0316346624)* Books from Malcolm Gladwell are generally great.
 
 ## Human & Health
 
