@@ -36,7 +36,8 @@ For more detailed review, check out my Book Haul series.
 
 ## Human & Health
 
-* **[An Elegant Defense](https://www.amazon.com/Elegant-Defense-Extraordinary-Science-Immune-ebook/dp/B07C66KJC1)** *The Extraordinary New Science of the Immune System*. Written by a journalist, the fascinating history of immunology and every aspect of it up until recent years. Awesome book.
+* [**An Elegant Defense** *The Extraordinary New Science of the Immune System*](https://www.amazon.com/Elegant-Defense-Extraordinary-Science-Immune-ebook/dp/B07C66KJC1)\
+  Written by a journalist, the fascinating history of immunology and every aspect of it up until recent years. Awesome book.
 * **[She Comes First](https://www.amazon.com/She-Comes-First-Thinking-Pleasuring/dp/0060538260)**. Yes, it's about sex. For guys.
 * **[Come As You Are](https://www.amazon.com/Come-You-Are-Surprising-Transform/dp/1476762090)** *The Surprising New Science that Will Transform Your Sex Life*. Another book about sex, but for girls.
 * **[The Great Pretender](https://www.amazon.com/Great-Pretender-Undercover-Mission-Understanding/dp/1538715287)**. Topic: mental health, madness. Great books on difficult topic always start with great story. Click on the link and see the plot to see why I think this is such a great book.
