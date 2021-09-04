@@ -4,7 +4,7 @@ draft: false
 excerpt: "A new creator economy, weekly email habit and a BDSM test | Weekly
   Learning #2"
 categories:
-  - weekly-learnings
+  - Weekly Learnings
 tags:
   - weekly-learnings
   - weekly-learning
