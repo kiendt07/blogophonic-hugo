@@ -39,7 +39,7 @@ The majority are copied verbatim and linked to their original sources. A small m
 ### Tools
 
 * TLDR for Terms and Privacy [tosdr.org](https://tosdr.org/)
-* BDSM Test (have fun doing this with my girlfriend) [bdsmtest.org](https://bdsmtest.org/r/EyKu3ycg)
+* BDSM Test [bdsmtest.org](https://bdsmtest.org/r/EyKu3ycg)
 * Public journal [listed.to](https://listed.to/)
 * Linx: low-code infrastructure provider [linx.software](https://linx.software/linx-compared-to-other-low-code-platforms/?utm=tld&utm_source=techleaddigest&utm_medium=email&utm_campaign=52)
 * Render: better and cheaper Heroku [render.com](https://render.com/)
