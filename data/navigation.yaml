@@ -1,10 +1,13 @@
 header:
-  - name: Blog
-    title: Blog
+  - name: Life
+    title: Life
     url: /blog/
-  - name: Code
-    title: Code
+  - name: Work
+    title: Work
     url: "https://code.thelifelonglearner.blog"
+  - name: Journal
+    title: Journal
+    url: "https://journal.thelifelonglearner.blog"
   - name: About
     title: About This Blog
     url: /about/
