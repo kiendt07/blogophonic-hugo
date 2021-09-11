@@ -44,3 +44,7 @@ The majority are copied verbatim and linked to their original sources. A small m
 ### Study
 
 * **SaaS: Pre-Sell to Validate** [failory.podia.com](https://failory.podia.com/pre-sales)
+
+# Code
+
+Find my learnings about code this week here [code.thelifelonglearner.blog](https://code.thelifelonglearner.blog/posts/2021-09-11-this-week-i-learn-2/)
