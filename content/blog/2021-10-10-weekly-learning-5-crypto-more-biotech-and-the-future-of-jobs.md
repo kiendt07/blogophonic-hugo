@@ -1,7 +1,9 @@
 ---
 title: "Weekly Learning #5: Crypto, More Biotech and The Future of Jobs"
-draft: true
+draft: false
 date: 2021-10-10T02:06:39.760Z
+images:
+  - /img/tien-ao.jpeg
 ---
 Without much curation and editing, here is a collection of my reading/finding/thoughts during the week.
 
