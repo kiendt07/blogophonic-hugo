@@ -1,5 +1,5 @@
 ---
-title: Mar'22 Learnings
+title: Feb'22 Learnings
 draft: false
 categories:
   - weekly-learning
