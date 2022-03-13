@@ -47,7 +47,7 @@ Fascinating companies always have something that we could learn from. List of co
 
 * **Blockchain Layer 1** [academy.binance.com](https://academy.binance.com/en/articles/what-is-layer-1-in-blockchain)
 * **SEO how-to simplified** [indiehackers.com](https://www.indiehackers.com/post/seo-checklist-for-1-person-teams-5503e9b5fc)
-* **What does it mean to listen on a port?** (fun read) \*\*\*\*[paulbutler.org](https://paulbutler.org/2022/what-does-it-mean-to-listen-on-a-port/)
+* **What does it mean to listen on a port?** (fun read) [paulbutler.org](https://paulbutler.org/2022/what-does-it-mean-to-listen-on-a-port/)
 
 ## Leverages
 
